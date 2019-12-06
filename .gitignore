@@ -19,3 +19,5 @@ debian/telegram-cli/*
 debian/telegram-cli.debhelper.log
 debian/telegram-cli.substvars
 __pycache__
+data
+tags
